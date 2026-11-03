@@ -1,0 +1,22 @@
+********************************************************
+*                     WELCOME TO                       *
+*             SECUREGATE PRO - INTELLIGENT             *
+*                MULTI-LEVEL BIOMETRIC                 *
+*                 ACCESS CONTROL AND                   *
+*                INTRUSION PREVENTION                  *
+*                      SYSTEM                          *
+********************************************************
+*******************SYSTEM STARTED***********************
+*****************SYSTEM INITIALISED*********************
+********************************************************
+Rusrcnt: 2LOG001:USER-USER ID VERIFIED
+LOG002:USER-PASSWORD VERIFIED
+LOG003:USER-FINGERPRINT VERIFIED
+LOG004:USER-ACCESS GRANTED
+LOG005:USER-DOOR OPENED
+LOG006:USER-PRESS SW TO CLOSE
+LOG007:USER-DOOR CLOSED
+LOG008:USER-USER ID VERIFIED
+LOG009:USER-WRONG PASSWORD 
+LOG010:USER-WRONG PASSWORD 
+LOG011:USER-PASSWORD VERIFIED
