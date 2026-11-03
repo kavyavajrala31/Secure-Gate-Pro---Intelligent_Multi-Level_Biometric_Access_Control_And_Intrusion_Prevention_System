@@ -303,6 +303,6 @@ SecureGate Pro demonstrates an embedded multi-level biometric access control sol
 **Communication:** UART, I2C, GPIO
 
 ## Developed by
-Yeluguri Priyanka
+Vajrala Kavya 
 
 Project: SecureGate Pro - Intelligent Multi-Level Biometric Access Control and Intrusion Prevention System
